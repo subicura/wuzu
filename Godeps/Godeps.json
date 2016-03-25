@@ -1,0 +1,97 @@
+{
+	"ImportPath": "github.com/subicura/wuzu",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v58",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.9.0-15-g219c8cb",
+			"Rev": "219c8cb75c258c552e999735be6df753ffc7afdc"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-229-g9fec0fa",
+			"Rev": "9fec0fad02befc9209347cc6d620e68e1b45f74d"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/opts",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/archive",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/fileutils",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/homedir",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/idtools",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/longpath",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/pools",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/promise",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/stdcopy",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/system",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/docker/go-units",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/hashicorp/go-cleanhttp",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/github.com/opencontainers/runc/libcontainer/user",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/golang.org/x/net/context",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient/external/golang.org/x/sys/unix",
+			"Rev": "7c07ffce0f7e14a4da49ce92a2842d4e87be1c1e"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "54535356f1d989a6072b0898d9ddc4dd7009dcd3"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "a83829b6f1293c91addabc89d0571c246397bbf4"
+		}
+	]
+}
